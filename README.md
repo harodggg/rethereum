@@ -1,2 +1,2 @@
-# R-ethereum
+# rethereum
  a rust client for ethereum
